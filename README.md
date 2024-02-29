@@ -13,6 +13,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | BriVIS     | Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation | Arxiv |   Offline   |                                                          [PDF](https://arxiv.org/pdf/2401.09732.pdf)                                                          |  [Code](https://github.com/sennnnn/OpenVIS)  |
 | OMG-Seg    | OMG-Seg: Is One Model Good Enough For All Segmentation?                           | Arxiv | Semi-Online |                                                          [PDF](https://arxiv.org/pdf/2401.10229.pdf)                                                          |   [Code](https://github.com/lxtGH/OMG-Seg)   |
 | RAP-SAM    | RAP-SAM : Towards Real-Time All-Purpose Segment Anything                          | Arxiv |   Online    |                                                          [PDF](https://arxiv.org/pdf/2401.10228.pdf)                                                          | [Code](https://github.com/xushilin1/RAP-SAM) |
+| UniVS      | UniVS: Unified and Universal Video Segmentation with Prompts as Queries  | Arxiv |   Online    |                                                          [PDF](https://arxiv.org/pdf/2402.18115.pdf)                                                          | [Code](https://github.com/MinghanLi/UniVS) |
 
 ## 2023
 
