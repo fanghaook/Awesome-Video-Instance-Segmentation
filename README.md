@@ -1,4 +1,4 @@
-![image](https://github.com/fanghaook/Awesome-Video-Instance-Segmentation/assets/47081840/5481751d-0064-4fd0-a937-1171c7de24a9)# Awesome-Video-Instance-Segmentation[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-Video-Instance-Segmentation[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 The project is continuously updated, welcome to starts ⭐ & comments 💹 & sharing 😀 !!!
 
 Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://github.com/Tavarich/Awesome-Referring-Video-Object-Segmentation)
