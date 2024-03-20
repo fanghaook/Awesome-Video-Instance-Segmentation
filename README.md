@@ -16,6 +16,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | UniVS      | UniVS: Unified and Universal Video Segmentation with Prompts as Queries  | Arxiv |   Online    |                                                          [PDF](https://arxiv.org/pdf/2402.18115.pdf)                                                          | [Code](https://github.com/MinghanLi/UniVS) |
 | VISAGE     | VISAGE: Video Instance Segmentation with Appearance-Guided Enhancement | Arxiv | Online|  [PDF](https://arxiv.org/pdf/2312.04885.pdf) | [Code](https://github.com/KimHanjung/VISAGE)|
 | InstFormer | OpenVIS: Open-vocabulary Video Instance Segmentation    | Arxiv   | Online |  [PDF](https://arxiv.org/pdf/2305.16835.pdf)    | |
+| CLIP-VIS     | CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation | Arxiv | Online|  [PDF](https://arxiv.org/pdf/2403.12455.pdf) | [Code](https://github.com/zwq456/CLIP-VIS)|
 ## 2023
 
 | Model          | Title                                                                                              |     Venue      |        Type        |                                                                                 Paper                                                                                 |                          Code                          |
