@@ -20,6 +20,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | InstFormer | OpenVIS: Open-vocabulary Video Instance Segmentation | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2305.16835.pdf) | |
 | CLIP-VIS | CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation | Arxiv | Online|  [PDF](https://arxiv.org/pdf/2403.12455.pdf) | [Code](https://github.com/zwq456/CLIP-VIS)|
 | DVIS-DAQ | DVIS-DAQ: Improving Video Segmentation via Dynamic Anchor Queries | Arxiv | Online/Offline|  [PDF](https://arxiv.org/pdf/2404.00086.pdf) | [Code](https://github.com/SkyworkAI/DAQ-VS)|
+| PointVIS | What is Point Supervision Worth in Video Instance Segmentation? | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.01990.pdf) | |
 ## 2023
 
 | Model          | Title                                                                                              |     Venue      |        Type        |                                                                                 Paper                                                                                 |                          Code                          |
