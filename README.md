@@ -22,6 +22,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | DVIS-DAQ | DVIS-DAQ: Improving Video Segmentation via Dynamic Anchor Queries | Arxiv | Online/Offline|  [PDF](https://arxiv.org/pdf/2404.00086.pdf) | [Code](https://github.com/SkyworkAI/DAQ-VS)|
 | PointVIS | What is Point Supervision Worth in Video Instance Segmentation? | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.01990.pdf) | |
 | OW-VISCap | OW-VISCap: Open-World Video Instance Segmentation and Captioning | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.03657.pdf) |[Code](https://anwesachoudhuri.github.io/OpenWorldVISCap)|
+| PM-VIS | PM-VIS: High-Performance Box-Supervised Video Instance Segmentation | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.13863.pdf) ||
 ## 2023
 
 | Model          | Title                                                                                              |     Venue      |        Type        |                                                                                 Paper                                                                                 |                          Code                          |
