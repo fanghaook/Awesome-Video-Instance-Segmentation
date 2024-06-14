@@ -14,6 +14,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | OMG-Seg | OMG-Seg: Is One Model Good Enough For All Segmentation? | CVPR | Semi-Online | [PDF](https://arxiv.org/pdf/2401.10229.pdf) | [Code](https://github.com/lxtGH/OMG-Seg) |
 | UniVS | UniVS: Unified and Universal Video Segmentation with Prompts as Queries | CVPR | Online | [PDF](https://arxiv.org/pdf/2402.18115.pdf) | [Code](https://github.com/MinghanLi/UniVS) |
 | GLEE | General Object Foundation Model for Images and Videos at Scale | CVPR | Offline | [PDF](https://arxiv.org/pdf/2312.09158.pdf) | [Code](https://github.com/FoundationVision/GLEE) |
+| UVIS | UVIS: Unsupervised Video Instance Segmentation | CVPRW | Online | [PDF](https://arxiv.org/pdf/2406.06908) ||
 | RAP-SAM | RAP-SAM : Towards Real-Time All-Purpose Segment Anything | Arxiv | Online | [PDF](https://arxiv.org/pdf/2401.10228.pdf) | [Code](https://github.com/xushilin1/RAP-SAM) |
 | BriVIS | Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2401.09732.pdf) | [Code](https://github.com/sennnnn/OpenVIS) |
 | VISAGE | VISAGE: Video Instance Segmentation with Appearance-Guided Enhancement | Arxiv | Online|  [PDF](https://arxiv.org/pdf/2312.04885.pdf) | [Code](https://github.com/KimHanjung/VISAGE)|
