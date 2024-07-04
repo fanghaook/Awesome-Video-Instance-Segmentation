@@ -25,6 +25,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | OW-VISCap | OW-VISCap: Open-World Video Instance Segmentation and Captioning | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.03657.pdf) |[Code](https://anwesachoudhuri.github.io/OpenWorldVISCap)|
 | PM-VIS | PM-VIS: High-Performance Box-Supervised Video Instance Segmentation | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.13863.pdf) ||
 | PM-VIS+ | PM-VIS+: High-Performance Video Instance Segmentation without Video Annotation | MIPR | Online |  [PDF](https://arxiv.org/pdf/2406.19665) |[Code](https://github.com/ldknight/PM-VIS-plus)|
+| CAVIS | CAVIS: Context-Aware Video Instance Segmentation | Arxiv | Online/Offline |  [PDF](https://arxiv.org/pdf/2407.03010) |[Code](https://github.com/Seung-Hun-Lee/CAVIS)|
 ## 2023
 
 | Model          | Title                                                                                              |     Venue      |        Type        |                                                                                 Paper                                                                                 |                          Code                          |
