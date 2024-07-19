@@ -11,6 +11,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | OOKD | Offline-to-Online Knowledge Distillation for Video Instance Segmentation | WACV | Online | [PDF](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Offline-to-Online_Knowledge_Distillation_for_Video_Instance_Segmentation_WACV_2024_paper.pdf) | |
 | MobileInst | MobileInst: Video Instance Segmentation on the Mobile | AAAI | Online | [PDF](https://arxiv.org/pdf/2303.17594.pdf) | |
 | LBVQ | Learning Better Video Query with SAM for Video Instance Segmentation | TCSVT | Offline | [PDF](https://ieeexplore.ieee.org/abstract/document/10418101) | [Code](https://github.com/fanghaook/LBVQ) |
+| OV2Seg+ | OV-VIS: Open-Vocabulary Video Instance Segmentation | IJCV | Online | [PDF](https://doi.org/10.1007/s11263-024-02076-w) | [Code](https://github.com/haochenheheda/LVVIS) |
 | OMG-Seg | OMG-Seg: Is One Model Good Enough For All Segmentation? | CVPR | Semi-Online | [PDF](https://arxiv.org/pdf/2401.10229.pdf) | [Code](https://github.com/lxtGH/OMG-Seg) |
 | UniVS | UniVS: Unified and Universal Video Segmentation with Prompts as Queries | CVPR | Online | [PDF](https://arxiv.org/pdf/2402.18115.pdf) | [Code](https://github.com/MinghanLi/UniVS) |
 | GLEE | General Object Foundation Model for Images and Videos at Scale | CVPR | Offline | [PDF](https://arxiv.org/pdf/2312.09158.pdf) | [Code](https://github.com/FoundationVision/GLEE) |
