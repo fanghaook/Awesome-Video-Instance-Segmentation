@@ -11,6 +11,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | OOKD | Offline-to-Online Knowledge Distillation for Video Instance Segmentation | WACV | Online | [PDF](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Offline-to-Online_Knowledge_Distillation_for_Video_Instance_Segmentation_WACV_2024_paper.pdf) | |
 | MobileInst | MobileInst: Video Instance Segmentation on the Mobile | AAAI | Online | [PDF](https://arxiv.org/pdf/2303.17594.pdf) | |
 | LBVQ | Learning Better Video Query with SAM for Video Instance Segmentation | TCSVT | Offline | [PDF](https://ieeexplore.ieee.org/abstract/document/10418101) | [Code](https://github.com/fanghaook/LBVQ) |
+| CLIP-VIS | CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation | TCSVT | Online|  [PDF](https://arxiv.org/pdf/2403.12455) | [Code](https://github.com/zwq456/CLIP-VIS)|
 | OV2Seg+ | OV-VIS: Open-Vocabulary Video Instance Segmentation | IJCV | Online | [PDF](https://doi.org/10.1007/s11263-024-02076-w) | [Code](https://github.com/haochenheheda/LVVIS) |
 | OW-VISFormer | Video Instance Segmentation in an Open-World | IJCV | Offline | [PDF](https://doi.org/10.1007/s11263-024-02195-4) | [Code](https://github.com/OmkarThawakar/OWVISFormer) |
 | OMG-Seg | OMG-Seg: Is One Model Good Enough For All Segmentation? | CVPR | Semi-Online | [PDF](https://arxiv.org/pdf/2401.10229.pdf) | [Code](https://github.com/lxtGH/OMG-Seg) |
@@ -22,10 +23,10 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | OVFormer | Unified Embedding Alignment for Open-Vocabulary Video Instance Segmentation | ECCV | Semi-Online | [PDF](https://arxiv.org/pdf/2407.07427) | [Code](https://github.com/fanghaook/OVFormer) |
 | GvSeg | General and Task-Oriented Video Segmentation | ECCV | Semi-Online |  [PDF](https://arxiv.org/pdf/2407.06540) | [Code](https://github.com/kagawa588/GvSeg)|
 | S-AModal  | Foundation Models for Amodal Video Instance Segmentation in Automated Driving | ECCVW | Online |  [PDF](https://arxiv.org/pdf/2409.14095) | [Code](https://github.com/ifnspaml/S-AModal)|
+| SyncVIS  | SyncVIS: Synchronized Video Instance Segmentation | NeurIPS | Offline |  | |
 | RAP-SAM | RAP-SAM : Towards Real-Time All-Purpose Segment Anything | Arxiv | Online | [PDF](https://arxiv.org/pdf/2401.10228.pdf) | [Code](https://github.com/xushilin1/RAP-SAM) |
 | BriVIS | Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2401.09732.pdf) | [Code](https://github.com/sennnnn/OpenVIS) |
 | InstFormer | OpenVIS: Open-vocabulary Video Instance Segmentation | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2305.16835.pdf) | |
-| CLIP-VIS | CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation | Arxiv | Online|  [PDF](https://arxiv.org/pdf/2403.12455.pdf) | [Code](https://github.com/zwq456/CLIP-VIS)|
 | PointVIS | What is Point Supervision Worth in Video Instance Segmentation? | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.01990.pdf) | |
 | OW-VISCap | OW-VISCap: Open-World Video Instance Segmentation and Captioning | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.03657.pdf) |[Code](https://anwesachoudhuri.github.io/OpenWorldVISCap)|
 | PM-VIS | PM-VIS: High-Performance Box-Supervised Video Instance Segmentation | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.13863.pdf) ||
