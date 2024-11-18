@@ -24,7 +24,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | OVFormer | Unified Embedding Alignment for Open-Vocabulary Video Instance Segmentation | ECCV | Semi-Online | [PDF](https://arxiv.org/pdf/2407.07427) | [Code](https://github.com/fanghaook/OVFormer) |
 | GvSeg | General and Task-Oriented Video Segmentation | ECCV | Semi-Online |  [PDF](https://arxiv.org/pdf/2407.06540) | [Code](https://github.com/kagawa588/GvSeg)|
 | S-AModal  | Foundation Models for Amodal Video Instance Segmentation in Automated Driving | ECCVW | Online |  [PDF](https://arxiv.org/pdf/2409.14095) | [Code](https://github.com/ifnspaml/S-AModal)|
-| SyncVIS  | SyncVIS: Synchronized Video Instance Segmentation | NeurIPS | Offline |  | |
+| SyncVIS  | SyncVIS: Synchronized Video Instance Segmentation | NeurIPS | Offline | [PDF](https://openreview.net/pdf?id=tTpVHsqTKf) |[Code](https://github.com/rkzheng99/SyncVIS) |
 | RAP-SAM | RAP-SAM : Towards Real-Time All-Purpose Segment Anything | Arxiv | Online | [PDF](https://arxiv.org/pdf/2401.10228.pdf) | [Code](https://github.com/xushilin1/RAP-SAM) |
 | BriVIS | Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2401.09732.pdf) | [Code](https://github.com/sennnnn/OpenVIS) |
 | InstFormer | OpenVIS: Open-vocabulary Video Instance Segmentation | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2305.16835.pdf) | |
