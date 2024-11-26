@@ -67,6 +67,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | BoxVIS         | BoxVIS: Video Instance Segmentation with Box Annotations                                           |     Arxiv      |       Online       |                                                              [PDF](https://arxiv.org/pdf/2303.14618.pdf)                                                              |      [Code](https://github.com/MinghanLi/BoxVIS)       |                                              |
 | OW-VISFormer   | Video Instance Segmentation in an Open-World                                                       |     Arxiv      |      Offline       |                                                              [PDF](https://arxiv.org/pdf/2304.01200.pdf)                                                              |  [Code](https://github.com/OmkarThawakar/OWVISFormer)  |
 | DVIS++         | DVIS++: Improved Decoupled Framework for Universal Video Segmentation                              |     Arxiv      |   Online/Offline   |                                                              [PDF](https://arxiv.org/pdf/2312.13305.pdf)                                                              |   [Code](https://github.com/zhang-tao-whu/DVIS_Plus)   |
+| VIS-Survey         | Deep Learning Techniques for Video Instance Segmentation: A Survey                              |     Arxiv      |   Survey   |  [PDF](https://arxiv.org/pdf/2310.12393)|   |
 
 
 ## 2022
