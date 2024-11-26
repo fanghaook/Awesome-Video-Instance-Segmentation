@@ -19,6 +19,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | UniVS | UniVS: Unified and Universal Video Segmentation with Prompts as Queries | CVPR | Online | [PDF](https://arxiv.org/pdf/2402.18115.pdf) | [Code](https://github.com/MinghanLi/UniVS) |
 | GLEE | General Object Foundation Model for Images and Videos at Scale | CVPR | Offline | [PDF](https://arxiv.org/pdf/2312.09158.pdf) | [Code](https://github.com/FoundationVision/GLEE) |
 | UVIS | UVIS: Unsupervised Video Instance Segmentation | CVPRW | Online | [PDF](https://arxiv.org/pdf/2406.06908) ||
+| PointVIS | What is Point Supervision Worth in Video Instance Segmentation? | CVPRW | Online |  [PDF](https://arxiv.org/pdf/2404.01990.pdf) | |
 | DVIS-DAQ | DVIS-DAQ: Improving Video Segmentation via Dynamic Anchor Queries | ECCV | Online/Offline|  [PDF](https://arxiv.org/pdf/2404.00086) | [Code](https://github.com/zhang-tao-whu/DVIS_Plus/tree/main/DVIS_DAQ)|
 | VISAGE | VISAGE: Video Instance Segmentation with Appearance-Guided Enhancement | ECCV | Online|  [PDF](https://arxiv.org/pdf/2312.04885.pdf) | [Code](https://github.com/KimHanjung/VISAGE)|
 | OVFormer | Unified Embedding Alignment for Open-Vocabulary Video Instance Segmentation | ECCV | Semi-Online | [PDF](https://arxiv.org/pdf/2407.07427) | [Code](https://github.com/fanghaook/OVFormer) |
@@ -28,7 +29,6 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | RAP-SAM | RAP-SAM : Towards Real-Time All-Purpose Segment Anything | Arxiv | Online | [PDF](https://arxiv.org/pdf/2401.10228.pdf) | [Code](https://github.com/xushilin1/RAP-SAM) |
 | BriVIS | Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2401.09732.pdf) | [Code](https://github.com/sennnnn/OpenVIS) |
 | InstFormer | OpenVIS: Open-vocabulary Video Instance Segmentation | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2305.16835.pdf) | |
-| PointVIS | What is Point Supervision Worth in Video Instance Segmentation? | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.01990.pdf) | |
 | OW-VISCap | OW-VISCap: Open-World Video Instance Segmentation and Captioning | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.03657.pdf) |[Code](https://anwesachoudhuri.github.io/OpenWorldVISCap)|
 | PM-VIS | PM-VIS: High-Performance Box-Supervised Video Instance Segmentation | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.13863.pdf) ||
 | PM-VIS+ | PM-VIS+: High-Performance Video Instance Segmentation without Video Annotation | MIPR | Online |  [PDF](https://arxiv.org/pdf/2406.19665) |[Code](https://github.com/ldknight/PM-VIS-plus)|
