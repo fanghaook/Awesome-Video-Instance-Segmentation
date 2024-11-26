@@ -34,7 +34,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | PM-VIS+ | PM-VIS+: High-Performance Video Instance Segmentation without Video Annotation | MIPR | Online |  [PDF](https://arxiv.org/pdf/2406.19665) |[Code](https://github.com/ldknight/PM-VIS-plus)|
 | CAVIS | CAVIS: Context-Aware Video Instance Segmentation | Arxiv | Online/Offline |  [PDF](https://arxiv.org/pdf/2407.03010) |[Code](https://github.com/Seung-Hun-Lee/CAVIS)|
 | ViLLa | ViLLa: Video Reasoning Segmentation with Large Language Model | Arxiv| Offline | [PDF](https://arxiv.org/pdf/2407.14500) | [Code](https://github.com/rkzheng99/ViLLa) |
-| Eigen-Cluster VIS | Eigen-Cluster VIS: Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2408.16661) | [Code](https://github.com/farnooshar/EigenClusterVIS) |
+| Eigen-Cluster VIS | Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2408.16661) | [Code](https://github.com/farnooshar/EigenClusterVIS) |
 | SDI-Paste | SDI-Paste: Synthetic Dynamic Instance Copy-Paste for Video Instance Segmentation| Arxiv | Online | [PDF](https://arxiv.org/pdf/2410.13565) | |
 ## 2023
 
