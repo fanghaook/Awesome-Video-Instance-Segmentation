@@ -38,6 +38,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | Eigen-Cluster VIS | Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2408.16661) | [Code](https://github.com/farnooshar/EigenClusterVIS) |
 | SDI-Paste | SDI-Paste: Synthetic Dynamic Instance Copy-Paste for Video Instance Segmentation| Arxiv | Online | [PDF](https://arxiv.org/pdf/2410.13565) | |
 | SSL-VIS | Self-supervised Video Instance Segmentation Can Boost Geographic Entity Alignment in Historical Maps| Arxiv | Offline | [PDF](https://arxiv.org/pdf/2411.17425) | |
+| A2VIS | A2VIS: Amodal-Aware Approach to Video Instance Segmentation| Arxiv | Offline | [PDF](https://arxiv.org/pdf/2412.01147) | |
 ## 2023
 
 | Model          | Title                                                                                              |     Venue      |        Type        |                                                                                 Paper                                                                                 |                          Code                          |
