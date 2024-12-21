@@ -26,6 +26,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | GvSeg | General and Task-Oriented Video Segmentation | ECCV | Semi-Online |  [PDF](https://arxiv.org/pdf/2407.06540) | [Code](https://github.com/kagawa588/GvSeg)|
 | S-AModal  | Foundation Models for Amodal Video Instance Segmentation in Automated Driving | ECCVW | Online |  [PDF](https://arxiv.org/pdf/2409.14095) | [Code](https://github.com/ifnspaml/S-AModal)|
 | SyncVIS  | SyncVIS: Synchronized Video Instance Segmentation | NeurIPS | Offline | [PDF](https://openreview.net/pdf?id=tTpVHsqTKf) |[Code](https://github.com/rkzheng99/SyncVIS) |
+| RT-VIS  | RT-VIS: Real-Time Video Instance Segmentation with Light-Weight Decoupled Framework | PRCV | Offline | [PDF](https://link.springer.com/chapter/10.1007/978-981-97-8792-0_34) |[Code](https://github.com/STOVAGtz/RT-VIS) |
 | Cluster2Former | Cluster2Former: Semisupervised Clustering Transformers for Video Instance Segmentation | Sensors | Offline |  [PDF](https://www.mdpi.com/1424-8220/24/3/997) ||
 | PM-VIS+ | PM-VIS+: High-Performance Video Instance Segmentation without Video Annotation | MIPR | Online |  [PDF](https://arxiv.org/pdf/2406.19665) |[Code](https://github.com/ldknight/PM-VIS-plus)|
 | RAP-SAM | RAP-SAM : Towards Real-Time All-Purpose Segment Anything | Arxiv | Online | [PDF](https://arxiv.org/pdf/2401.10228.pdf) | [Code](https://github.com/xushilin1/RAP-SAM) |
