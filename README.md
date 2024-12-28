@@ -26,6 +26,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | GvSeg | General and Task-Oriented Video Segmentation | ECCV | Semi-Online |  [PDF](https://arxiv.org/pdf/2407.06540) | [Code](https://github.com/kagawa588/GvSeg)|
 | S-AModal  | Foundation Models for Amodal Video Instance Segmentation in Automated Driving | ECCVW | Online |  [PDF](https://arxiv.org/pdf/2409.14095) | [Code](https://github.com/ifnspaml/S-AModal)|
 | SyncVIS  | SyncVIS: Synchronized Video Instance Segmentation | NeurIPS | Offline | [PDF](https://openreview.net/pdf?id=tTpVHsqTKf) |[Code](https://github.com/rkzheng99/SyncVIS) |
+| OW-VISCapTor | OW-VISCapTor: Abstractors for Open-World Video Instance Segmentation and Captioning | NeurIPS | Online |  [PDF](https://arxiv.org/pdf/2404.03657.pdf) |[Code](https://anwesachoudhuri.github.io/OpenWorldVISCap)|
 | RT-VIS  | RT-VIS: Real-Time Video Instance Segmentation with Light-Weight Decoupled Framework | PRCV | Online | [PDF](https://link.springer.com/chapter/10.1007/978-981-97-8792-0_34) |[Code](https://github.com/STOVAGtz/RT-VIS) |
 | Cluster2Former | Cluster2Former: Semisupervised Clustering Transformers for Video Instance Segmentation | Sensors | Offline |  [PDF](https://www.mdpi.com/1424-8220/24/3/997) ||
 | UPVIS | UPVIS: upsampled video query for offline video instance segmentation | MTA | Offline |  [PDF](https://link.springer.com/article/10.1007/s11042-024-20533-z) ||
@@ -34,7 +35,6 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | RAP-SAM | RAP-SAM : Towards Real-Time All-Purpose Segment Anything | Arxiv | Online | [PDF](https://arxiv.org/pdf/2401.10228.pdf) | [Code](https://github.com/xushilin1/RAP-SAM) |
 | BriVIS | Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2401.09732.pdf) | [Code](https://github.com/sennnnn/OpenVIS) |
 | InstFormer | OpenVIS: Open-vocabulary Video Instance Segmentation | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2305.16835.pdf) | |
-| OW-VISCap | OW-VISCap: Open-World Video Instance Segmentation and Captioning | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.03657.pdf) |[Code](https://anwesachoudhuri.github.io/OpenWorldVISCap)|
 | PM-VIS | PM-VIS: High-Performance Box-Supervised Video Instance Segmentation | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.13863.pdf) ||
 | CAVIS | CAVIS: Context-Aware Video Instance Segmentation | Arxiv | Online/Offline |  [PDF](https://arxiv.org/pdf/2407.03010) |[Code](https://github.com/Seung-Hun-Lee/CAVIS)|
 | ViLLa | ViLLa: Video Reasoning Segmentation with Large Language Model | Arxiv| Offline | [PDF](https://arxiv.org/pdf/2407.14500) | [Code](https://github.com/rkzheng99/ViLLa) |
