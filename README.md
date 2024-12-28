@@ -43,6 +43,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | SSL-VIS | Self-supervised Video Instance Segmentation Can Boost Geographic Entity Alignment in Historical Maps| Arxiv | Offline | [PDF](https://arxiv.org/pdf/2411.17425) | |
 | A2VIS | A2VIS: Amodal-Aware Approach to Video Instance Segmentation| Arxiv | Offline | [PDF](https://arxiv.org/pdf/2412.01147) | |
 | TROY-VIS | Towards Real-Time Open-Vocabulary Video Instance Segmentation | Arxiv | Online | [PDF](https://arxiv.org/pdf/2412.04434) | [Code](https://github.com/googleresearch/troyvis) |
+| O2VIS | O2VIS: Occupancy-aware Object Association for Temporally Consistent Video Instance Segmentation | Arxiv | Online | [PDF](https://openreview.net/pdf?id=1BlEVFmqwn) | |
 ## 2023
 
 | Model          | Title                                                                                              |     Venue      |        Type        |                                                                                 Paper                                                                                 |                          Code                          |
