@@ -31,6 +31,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | Cluster2Former | Cluster2Former: Semisupervised Clustering Transformers for Video Instance Segmentation | Sensors | Offline |  [PDF](https://www.mdpi.com/1424-8220/24/3/997) ||
 | UPVIS | UPVIS: upsampled video query for offline video instance segmentation | MTA | Offline |  [PDF](https://link.springer.com/article/10.1007/s11042-024-20533-z) ||
 | KeyVIS  | Improving Weakly-supervised Video Instance Segmentation Using Keypoints Consistency | CVIU | Offine | [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5015762) |[Code](https://github.com/farnooshar/KeyVIS) |
+| Gp3Former  | Gp3Former: Gaussian Prior Tri-Cascaded Transformer for Video Instance Segmentation in Livestreaming Scenarios | ETCI | Offine | [PDF](https://ieeexplore.ieee.org/abstract/document/10555385) | |
 | PM-VIS+ | PM-VIS+: High-Performance Video Instance Segmentation without Video Annotation | MIPR | Online |  [PDF](https://arxiv.org/pdf/2406.19665) |[Code](https://github.com/ldknight/PM-VIS-plus)|
 | RAP-SAM | RAP-SAM : Towards Real-Time All-Purpose Segment Anything | Arxiv | Online | [PDF](https://arxiv.org/pdf/2401.10228.pdf) | [Code](https://github.com/xushilin1/RAP-SAM) |
 | BriVIS | Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2401.09732.pdf) | [Code](https://github.com/sennnnn/OpenVIS) |
