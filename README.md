@@ -12,6 +12,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | MobileInst | MobileInst: Video Instance Segmentation on the Mobile | AAAI | Online | [PDF](https://arxiv.org/pdf/2303.17594.pdf) | |
 | LBVQ | Learning Better Video Query with SAM for Video Instance Segmentation | TCSVT | Offline | [PDF](https://ieeexplore.ieee.org/abstract/document/10418101) | [Code](https://github.com/fanghaook/LBVQ) |
 | CLIP-VIS | CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation | TCSVT | Online|  [PDF](https://arxiv.org/pdf/2403.12455) | [Code](https://github.com/zwq456/CLIP-VIS)|
+| QCEN | Video Instance Segmentation Without Using Mask and Identity Supervision | TMM | Online|  [PDF](https://ieeexplore.ieee.org/abstract/document/10814054) | |
 | STFormer | STFormer: Spatial-Temporal-Aware Transformer for Video Instance Segmentation | TNNLS | Semi-Online|  [PDF](https://ieeexplore.ieee.org/abstract/document/10721237) | |
 | OV2Seg+ | OV-VIS: Open-Vocabulary Video Instance Segmentation | IJCV | Online | [PDF](https://doi.org/10.1007/s11263-024-02076-w) | [Code](https://github.com/haochenheheda/LVVIS) |
 | OW-VISFormer | Video Instance Segmentation in an Open-World | IJCV | Offline | [PDF](https://doi.org/10.1007/s11263-024-02195-4) | [Code](https://github.com/OmkarThawakar/OWVISFormer) |
