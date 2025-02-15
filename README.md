@@ -28,6 +28,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | S-AModal  | Foundation Models for Amodal Video Instance Segmentation in Automated Driving | ECCVW | Online |  [PDF](https://arxiv.org/pdf/2409.14095) | [Code](https://github.com/ifnspaml/S-AModal)|
 | SyncVIS  | SyncVIS: Synchronized Video Instance Segmentation | NeurIPS | Offline | [PDF](https://openreview.net/pdf?id=tTpVHsqTKf) |[Code](https://github.com/rkzheng99/SyncVIS) |
 | OW-VISCapTor | OW-VISCapTor: Abstractors for Open-World Video Instance Segmentation and Captioning | NeurIPS | Online |  [PDF](https://arxiv.org/pdf/2404.03657.pdf) |[Code](https://anwesachoudhuri.github.io/OpenWorldVISCap)|
+| SSL-VIS | Self-supervised Video Instance Segmentation Can Boost Geographic Entity Alignment in Historical Maps| NeurIPSW | Offline | [PDF](https://arxiv.org/pdf/2411.17425) | |
 | RT-VIS  | RT-VIS: Real-Time Video Instance Segmentation with Light-Weight Decoupled Framework | PRCV | Online | [PDF](https://link.springer.com/chapter/10.1007/978-981-97-8792-0_34) |[Code](https://github.com/STOVAGtz/RT-VIS) |
 | Cluster2Former | Cluster2Former: Semisupervised Clustering Transformers for Video Instance Segmentation | Sensors | Offline |  [PDF](https://www.mdpi.com/1424-8220/24/3/997) ||
 | UPVIS | UPVIS: upsampled video query for offline video instance segmentation | MTA | Offline |  [PDF](https://link.springer.com/article/10.1007/s11042-024-20533-z) ||
@@ -43,7 +44,6 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | ViLLa | ViLLa: Video Reasoning Segmentation with Large Language Model | Arxiv| Offline | [PDF](https://arxiv.org/pdf/2407.14500) | [Code](https://github.com/rkzheng99/ViLLa) |
 | Eigen-Cluster VIS | Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2408.16661) | [Code](https://github.com/farnooshar/EigenClusterVIS) |
 | SDI-Paste | SDI-Paste: Synthetic Dynamic Instance Copy-Paste for Video Instance Segmentation| Arxiv | Online | [PDF](https://arxiv.org/pdf/2410.13565) | |
-| SSL-VIS | Self-supervised Video Instance Segmentation Can Boost Geographic Entity Alignment in Historical Maps| Arxiv | Offline | [PDF](https://arxiv.org/pdf/2411.17425) | |
 | A2VIS | A2VIS: Amodal-Aware Approach to Video Instance Segmentation| Arxiv | Offline | [PDF](https://arxiv.org/pdf/2412.01147) | |
 | TROY-VIS | Towards Real-Time Open-Vocabulary Video Instance Segmentation | Arxiv | Online | [PDF](https://arxiv.org/pdf/2412.04434) | [Code](https://github.com/googleresearch/troyvis) |
 | O2VIS | O2VIS: Occupancy-aware Object Association for Temporally Consistent Video Instance Segmentation | Arxiv | Online | [PDF](https://openreview.net/pdf?id=1BlEVFmqwn) | |
