@@ -2,6 +2,11 @@
 The project is continuously updated, welcome to starts ⭐ & comments 💹 & sharing 😀 !!!
 
 Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://github.com/Tavarich/Awesome-Referring-Video-Object-Segmentation)
+## 2025
+
+| Model      | Title                                                                             | Venue |    Type     |                                                                             Paper                                                                             |                     Code                     |
+|:-----------|:----------------------------------------------------------------------------------|:-----:|:-----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------:|
+| AVIS | Audio-Visual Instance Segmentation | CVPR | Offline | [PDF](https://arxiv.org/pdf/2310.18709) |[Code](https://github.com/ruohaoguo/avis) |
 
 
 ## 2024
