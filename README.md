@@ -7,6 +7,8 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | Model      | Title                                                                             | Venue |    Type     |                                                                             Paper                                                                             |                     Code                     |
 |:-----------|:----------------------------------------------------------------------------------|:-----:|:-----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------:|
 | AVIS | Audio-Visual Instance Segmentation | CVPR | Offline | [PDF](https://arxiv.org/pdf/2310.18709) |[Code](https://github.com/ruohaoguo/avis) |
+| RipVIS | RipVIS: Rip Currents Video Instance Segmentation Benchmark for Beach Monitoring and Safety | CVPR |  | [PDF]() |[Code]() |
+| MLMU | Minimizing Labeled, Maximizing Unlabeled: An Image-Driven Approach for Video Instance Segmentation | CVPR |  | [PDF]() |[Code]() |
 
 
 ## 2024
