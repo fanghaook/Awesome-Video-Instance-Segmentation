@@ -7,6 +7,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | Model      | Title                                                                             | Venue |    Type     |                                                                             Paper                                                                             |                     Code                     |
 |:-----------|:----------------------------------------------------------------------------------|:-----:|:-----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------:|
 | AVIS | Audio-Visual Instance Segmentation | CVPR | Offline | [PDF](https://arxiv.org/pdf/2310.18709) |[Code](https://github.com/ruohaoguo/avis) |
+| MSTM | A Temporal Modeling Framework for Video Pre-Training on Video Instance Segmentation | ICME | Online | [PDF](https://arxiv.org/pdf/2503.17672) | |
 | RipVIS | RipVIS: Rip Currents Video Instance Segmentation Benchmark for Beach Monitoring and Safety | CVPR |  |  | |
 | MLMU | Minimizing Labeled, Maximizing Unlabeled: An Image-Driven Approach for Video Instance Segmentation | CVPR |  |  | |
 
