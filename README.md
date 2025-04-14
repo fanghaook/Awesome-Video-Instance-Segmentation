@@ -53,7 +53,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | Eigen-Cluster VIS | Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2408.16661) | [Code](https://github.com/farnooshar/EigenClusterVIS) |
 | SDI-Paste | SDI-Paste: Synthetic Dynamic Instance Copy-Paste for Video Instance Segmentation| Arxiv | Online | [PDF](https://arxiv.org/pdf/2410.13565) | |
 | A2VIS | A2VIS: Amodal-Aware Approach to Video Instance Segmentation| Arxiv | Offline | [PDF](https://arxiv.org/pdf/2412.01147) | |
-| TROY-VIS | Towards Real-Time Open-Vocabulary Video Instance Segmentation | Arxiv | Online | [PDF](https://arxiv.org/pdf/2412.04434) | [Code](https://github.com/googleresearch/troyvis) |
+| TROY-VIS | Towards Real-Time Open-Vocabulary Video Instance Segmentation | Arxiv | Online | [PDF](https://arxiv.org/pdf/2412.04434) | [Code](https://github.com/google-research/troyvis) |
 | O2VIS | O2VIS: Occupancy-aware Object Association for Temporally Consistent Video Instance Segmentation | Arxiv | Online | [PDF](https://openreview.net/pdf?id=1BlEVFmqwn) | |
 ## 2023
 
