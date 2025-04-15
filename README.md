@@ -6,8 +6,11 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 
 | Model      | Title                                                                             | Venue |    Type     |                                                                             Paper                                                                             |                     Code                     |
 |:-----------|:----------------------------------------------------------------------------------|:-----:|:-----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------:|
-| AVIS | Audio-Visual Instance Segmentation | CVPR | Offline | [PDF](https://arxiv.org/pdf/2310.18709) |[Code](https://github.com/ruohaoguo/avis) |
+| BriVIS | Aligning Instance Brownian Bridge with Texts for Open-Vocabulary Video Instance Segmentation | AAAI | Offline | [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/32250/34405) | [Code](https://github.com/sennnnn/OpenVIS) |
+| InstFormer | OpenVIS: Open-vocabulary Video Instance Segmentation | AAAI | Online | [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/32338/34493) | [Code](https://github.com/PinxueGuo/OpenVIS) |
+| RoCoVIS | Robust and Consistent Online Video Instance Segmentation via Instance Mask Propagation | AAAI | Online | [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/32361/34516) |  |
 | MSTM | A Temporal Modeling Framework for Video Pre-Training on Video Instance Segmentation | ICME | Online | [PDF](https://arxiv.org/pdf/2503.17672) | |
+| AVIS | Audio-Visual Instance Segmentation | CVPR | Offline | [PDF](https://arxiv.org/pdf/2310.18709) |[Code](https://github.com/ruohaoguo/avis) |
 | RipVIS | RipVIS: Rip Currents Video Instance Segmentation Benchmark for Beach Monitoring and Safety | CVPR | Online | [PDF](https://arxiv.org/pdf/2504.01128) | [Code](https://ripvis.ai/)|
 | MLMU | Minimizing Labeled, Maximizing Unlabeled: An Image-Driven Approach for Video Instance Segmentation | CVPR |  |  | |
 
@@ -44,8 +47,6 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | Gp3Former  | Gp3Former: Gaussian Prior Tri-Cascaded Transformer for Video Instance Segmentation in Livestreaming Scenarios | ETCI | Offine | [PDF](https://ieeexplore.ieee.org/abstract/document/10555385) | |
 | PM-VIS+ | PM-VIS+: High-Performance Video Instance Segmentation without Video Annotation | MIPR | Online |  [PDF](https://arxiv.org/pdf/2406.19665) |[Code](https://github.com/ldknight/PM-VIS-plus)|
 | RAP-SAM | RAP-SAM : Towards Real-Time All-Purpose Segment Anything | Arxiv | Online | [PDF](https://arxiv.org/pdf/2401.10228.pdf) | [Code](https://github.com/xushilin1/RAP-SAM) |
-| BriVIS | Instance Brownian Bridge as Texts for Open-vocabulary Video Instance Segmentation | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2401.09732.pdf) | [Code](https://github.com/sennnnn/OpenVIS) |
-| InstFormer | OpenVIS: Open-vocabulary Video Instance Segmentation | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2305.16835.pdf) | |
 | PM-VIS | PM-VIS: High-Performance Box-Supervised Video Instance Segmentation | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.13863.pdf) ||
 | UVOSAM | UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model |Arxiv| Online| [PDF](https://arxiv.org/pdf/2305.12659)| [Code](https://github.com/alibaba/UVOSAM) |
 | CAVIS | CAVIS: Context-Aware Video Instance Segmentation | Arxiv | Online/Offline |  [PDF](https://arxiv.org/pdf/2407.03010) |[Code](https://github.com/Seung-Hun-Lee/CAVIS)|
