@@ -14,7 +14,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | RoCoVIS | Robust and Consistent Online Video Instance Segmentation via Instance Mask Propagation | AAAI | Online | [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/32361/34516) |  |
 | AVIS | Audio-Visual Instance Segmentation | CVPR | Offline | [PDF](https://arxiv.org/pdf/2310.18709) |[Code](https://github.com/ruohaoguo/avis) |
 | RipVIS | RipVIS: Rip Currents Video Instance Segmentation Benchmark for Beach Monitoring and Safety | CVPR | Online | [PDF](https://arxiv.org/pdf/2504.01128) | [Code](https://ripvis.ai/)|
-| MLMU | Minimizing Labeled, Maximizing Unlabeled: An Image-Driven Approach for Video Instance Segmentation | CVPR |  |  | |
+| MinMaxVIS | Minimizing Labeled, Maximizing Unlabeled: An Image-Driven Approach for Video Instance Segmentation | CVPR | Online | [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Minimizing_Labeled_Maximizing_Unlabeled_An_Image-Driven_Approach_for_Video_Instance_CVPR_2025_paper.pdf) | |
 | FlowCut | FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2505.13174) | |
 
 
