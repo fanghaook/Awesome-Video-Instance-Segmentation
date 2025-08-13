@@ -17,6 +17,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | MinMaxVIS | Minimizing Labeled, Maximizing Unlabeled: An Image-Driven Approach for Video Instance Segmentation | CVPR | Online | [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Minimizing_Labeled_Maximizing_Unlabeled_An_Image-Driven_Approach_for_Video_Instance_CVPR_2025_paper.pdf) | |
 | LOMM | Latest Object Memory Management for Temporally Consistent Video Instance Segmentation | ICCV | Online/Offline | [PDF](https://arxiv.org/pdf/2507.19754) | [Code](https://github.com/Seung-Hun-Lee/LOMM)|
 | HVPL | Hierarchical Visual Prompt Learning for Continual Video Instance Segmentation | ICCV | Online | [PDF](https://arxiv.org/pdf/2508.08612) | [Code](https://github.com/JiahuaDong/HVPL)|
+| CAVIS | CAVIS: Context-Aware Video Instance Segmentation | ICCV | Online/Offline |  [PDF](https://arxiv.org/pdf/2407.03010) |[Code](https://github.com/Seung-Hun-Lee/CAVIS)|
 | Local2Global | Local2Global query Alignment for Video Instance Segmentation | ICCVW | Online | [PDF](https://arxiv.org/pdf/2507.20120) | |
 | EDC | Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation | ICCVW | Online/Offline | [PDF](https://arxiv.org/pdf/2507.05948) |[Code](https://github.com/QuanzhuNiu/DVIS_Depth) |
 | DVIS++ | DVIS++: Improved Decoupled Framework for Universal Video Segmentation | TPAMI | Online/Offline | [PDF](https://ieeexplore.ieee.org/abstract/document/10933545) |[Code](https://github.com/zhang-tao-whu/DVIS_Plus/tree/main/DVIS_Plus) |
@@ -57,7 +58,6 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | PM-VIS+ | PM-VIS+: High-Performance Video Instance Segmentation without Video Annotation | MIPR | Online |  [PDF](https://arxiv.org/pdf/2406.19665) |[Code](https://github.com/ldknight/PM-VIS-plus)|
 | PM-VIS | PM-VIS: High-Performance Box-Supervised Video Instance Segmentation | Arxiv | Online |  [PDF](https://arxiv.org/pdf/2404.13863.pdf) ||
 | UVOSAM | UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model |Arxiv| Online| [PDF](https://arxiv.org/pdf/2305.12659)| [Code](https://github.com/alibaba/UVOSAM) |
-| CAVIS | CAVIS: Context-Aware Video Instance Segmentation | Arxiv | Online/Offline |  [PDF](https://arxiv.org/pdf/2407.03010) |[Code](https://github.com/Seung-Hun-Lee/CAVIS)|
 | ViLLa | ViLLa: Video Reasoning Segmentation with Large Language Model | Arxiv| Offline | [PDF](https://arxiv.org/pdf/2407.14500) | [Code](https://github.com/rkzheng99/ViLLa) |
 | Eigen-Cluster VIS | Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2408.16661) | [Code](https://github.com/farnooshar/EigenClusterVIS) |
 | SDI-Paste | SDI-Paste: Synthetic Dynamic Instance Copy-Paste for Video Instance Segmentation| Arxiv | Online | [PDF](https://arxiv.org/pdf/2410.13565) | |
