@@ -16,6 +16,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | RipVIS | RipVIS: Rip Currents Video Instance Segmentation Benchmark for Beach Monitoring and Safety | CVPR | Online | [PDF](https://arxiv.org/pdf/2504.01128) | [Code](https://ripvis.ai/)|
 | MinMaxVIS | Minimizing Labeled, Maximizing Unlabeled: An Image-Driven Approach for Video Instance Segmentation | CVPR | Online | [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Minimizing_Labeled_Maximizing_Unlabeled_An_Image-Driven_Approach_for_Video_Instance_CVPR_2025_paper.pdf) | |
 | LOMM | Latest Object Memory Management for Temporally Consistent Video Instance Segmentation | ICCV | Online/Offline | [PDF](https://arxiv.org/pdf/2507.19754) | [Code](https://github.com/Seung-Hun-Lee/LOMM)|
+| HVPL | Hierarchical Visual Prompt Learning for Continual Video Instance Segmentation | ICCV | Online | [PDF](https://arxiv.org/pdf/2508.08612) | [Code](https://github.com/JiahuaDong/HVPL)|
 | Local2Global | Local2Global query Alignment for Video Instance Segmentation | ICCVW | Online | [PDF](https://arxiv.org/pdf/2507.20120) | |
 | EDC | Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation | ICCVW | Online/Offline | [PDF](https://arxiv.org/pdf/2507.05948) |[Code](https://github.com/QuanzhuNiu/DVIS_Depth) |
 | DVIS++ | DVIS++: Improved Decoupled Framework for Universal Video Segmentation | TPAMI | Online/Offline | [PDF](https://ieeexplore.ieee.org/abstract/document/10933545) |[Code](https://github.com/zhang-tao-whu/DVIS_Plus/tree/main/DVIS_Plus) |
