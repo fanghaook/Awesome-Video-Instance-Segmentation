@@ -20,6 +20,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | CAVIS | CAVIS: Context-Aware Video Instance Segmentation | ICCV | Online/Offline |  [PDF](https://arxiv.org/pdf/2407.03010) |[Code](https://github.com/Seung-Hun-Lee/CAVIS)|
 | Local2Global | Local2Global query Alignment for Video Instance Segmentation | ICCVW | Online | [PDF](https://arxiv.org/pdf/2507.20120) | |
 | EDC | Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation | ICCVW | Online/Offline | [PDF](https://arxiv.org/pdf/2507.05948) |[Code](https://github.com/QuanzhuNiu/DVIS_Depth) |
+| AutoQ-VIS | AutoQ-VIS: Improving Unsupervised Video Instance Segmentation via Automatic Quality Assessment | ICCVW | Offline | [PDF](https://arxiv.org/pdf/2508.19808) |[Code](https://github.com/wcbup/AutoQ-VIS) |
 | DVIS++ | DVIS++: Improved Decoupled Framework for Universal Video Segmentation | TPAMI | Online/Offline | [PDF](https://ieeexplore.ieee.org/abstract/document/10933545) |[Code](https://github.com/zhang-tao-whu/DVIS_Plus/tree/main/DVIS_Plus) |
 | FlowCut | FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2505.13174) | |
 | CRISP | CRISP: Contrastive Residual Injection and Semantic Prompting for Continual Video Instance Segmentation | Arxiv | Online | [PDF](https://arxiv.org/pdf/2508.10432) |[Code](https://github.com/01upup10/CRISP)|
