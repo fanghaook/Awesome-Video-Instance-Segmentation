@@ -24,6 +24,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | DVIS++ | DVIS++: Improved Decoupled Framework for Universal Video Segmentation | TPAMI | Online/Offline | [PDF](https://ieeexplore.ieee.org/abstract/document/10933545) |[Code](https://github.com/zhang-tao-whu/DVIS_Plus/tree/main/DVIS_Plus) |
 | FlowCut | FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2505.13174) | |
 | CRISP | CRISP: Contrastive Residual Injection and Semantic Prompting for Continual Video Instance Segmentation | Arxiv | Online | [PDF](https://arxiv.org/pdf/2508.10432) |[Code](https://github.com/01upup10/CRISP)|
+| AUSM | Autoregressive Universal Video Segmentation Model | Arxiv | Online | [PDF](https://arxiv.org/pdf/2508.19242) ||
 
 
 
