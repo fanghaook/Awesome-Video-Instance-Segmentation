@@ -15,9 +15,11 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | AVIS | Audio-Visual Instance Segmentation | CVPR | Offline | [PDF](https://arxiv.org/pdf/2310.18709) |[Code](https://github.com/ruohaoguo/avis) |
 | RipVIS | RipVIS: Rip Currents Video Instance Segmentation Benchmark for Beach Monitoring and Safety | CVPR | Online | [PDF](https://arxiv.org/pdf/2504.01128) | [Code](https://ripvis.ai/)|
 | MinMaxVIS | Minimizing Labeled, Maximizing Unlabeled: An Image-Driven Approach for Video Instance Segmentation | CVPR | Online | [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Minimizing_Labeled_Maximizing_Unlabeled_An_Image-Driven_Approach_for_Video_Instance_CVPR_2025_paper.pdf) | |
+| WSI | Video Instance Segmentation by Weighted Structure Inference | ACM MM | Online/Offline |  | |
 | LOMM | Latest Object Memory Management for Temporally Consistent Video Instance Segmentation | ICCV | Online/Offline | [PDF](https://arxiv.org/pdf/2507.19754) | [Code](https://github.com/Seung-Hun-Lee/LOMM)|
 | HVPL | Hierarchical Visual Prompt Learning for Continual Video Instance Segmentation | ICCV | Online | [PDF](https://arxiv.org/pdf/2508.08612) | [Code](https://github.com/JiahuaDong/HVPL)|
 | CAVIS | CAVIS: Context-Aware Video Instance Segmentation | ICCV | Online/Offline |  [PDF](https://arxiv.org/pdf/2407.03010) |[Code](https://github.com/Seung-Hun-Lee/CAVIS)|
+| SWBridge | Sliced Wasserstein Bridge for Open-Vocabulary Video Instance Segmentation | ICCV | Online |  [PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Qin_Sliced_Wasserstein_Bridge_for_Open-Vocabulary_Video_Instance_Segmentation_ICCV_2025_paper.pdf) ||
 | Local2Global | Local2Global query Alignment for Video Instance Segmentation | ICCVW | Online | [PDF](https://arxiv.org/pdf/2507.20120) | |
 | EDC | Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation | ICCVW | Online/Offline | [PDF](https://arxiv.org/pdf/2507.05948) |[Code](https://github.com/QuanzhuNiu/DVIS_Depth) |
 | AutoQ-VIS | AutoQ-VIS: Improving Unsupervised Video Instance Segmentation via Automatic Quality Assessment | ICCVW | Offline | [PDF](https://arxiv.org/pdf/2508.19808) |[Code](https://github.com/wcbup/AutoQ-VIS) |
