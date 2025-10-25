@@ -19,6 +19,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | LOMM | Latest Object Memory Management for Temporally Consistent Video Instance Segmentation | ICCV | Online/Offline | [PDF](https://arxiv.org/pdf/2507.19754) | [Code](https://github.com/Seung-Hun-Lee/LOMM)|
 | HVPL | Hierarchical Visual Prompt Learning for Continual Video Instance Segmentation | ICCV | Online | [PDF](https://arxiv.org/pdf/2508.08612) | [Code](https://github.com/JiahuaDong/HVPL)|
 | CAVIS | CAVIS: Context-Aware Video Instance Segmentation | ICCV | Online/Offline |  [PDF](https://arxiv.org/pdf/2407.03010) |[Code](https://github.com/Seung-Hun-Lee/CAVIS)|
+| TAR | Temporal-aware Query Routing for Real-time Video Instance Segmentation | ICCV | Online |  [PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Cheng_Temporal-aware_Query_Routing_for_Real-time_Video_Instance_Segmentation_ICCV_2025_paper.pdf) ||
 | SWBridge | Sliced Wasserstein Bridge for Open-Vocabulary Video Instance Segmentation | ICCV | Online |  [PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Qin_Sliced_Wasserstein_Bridge_for_Open-Vocabulary_Video_Instance_Segmentation_ICCV_2025_paper.pdf) ||
 | Local2Global | Local2Global query Alignment for Video Instance Segmentation | ICCVW | Online | [PDF](https://arxiv.org/pdf/2507.20120) | |
 | EDC | Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation | ICCVW | Online/Offline | [PDF](https://arxiv.org/pdf/2507.05948) |[Code](https://github.com/QuanzhuNiu/DVIS_Depth) |
