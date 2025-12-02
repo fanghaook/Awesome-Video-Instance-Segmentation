@@ -28,6 +28,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | FlowCut | FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2505.13174) | |
 | CRISP | CRISP: Contrastive Residual Injection and Semantic Prompting for Continual Video Instance Segmentation | Arxiv | Online | [PDF](https://arxiv.org/pdf/2508.10432) |[Code](https://github.com/01upup10/CRISP)|
 | AUSM | Autoregressive Universal Video Segmentation Model | Arxiv | Online | [PDF](https://arxiv.org/pdf/2508.19242) ||
+| ELVIS | ELVIS: Enhance Low-light for Video Instance Segmentation in the Dark | Arxiv | Online | [PDF](https://arxiv.org/pdf/2512.01495) ||
 
 
 
