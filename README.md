@@ -2,6 +2,12 @@
 The project is continuously updated, welcome to starts ⭐ & comments 💹 & sharing 😀 !!!
 
 Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://github.com/Tavarich/Awesome-Referring-Video-Object-Segmentation)
+## 2026
+
+| Model      | Title                                                                             | Venue |    Type     |                                                                             Paper                                                                             |                     Code                     |
+|:-----------|:----------------------------------------------------------------------------------|:-----:|:-----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------:|
+| AutoQ-VIS | Boosting Unsupervised Video Instance Segmentation with Automatic Quality-Guided Self-Training | WACV | Online | [PDF](https://arxiv.org/pdf/2512.06864) | [Code](https://github.com/wcbup/AutoQ-VIS) |
+
 ## 2025
 
 | Model      | Title                                                                             | Venue |    Type     |                                                                             Paper                                                                             |                     Code                     |
