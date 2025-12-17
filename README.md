@@ -35,6 +35,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | CRISP | CRISP: Contrastive Residual Injection and Semantic Prompting for Continual Video Instance Segmentation | Arxiv | Online | [PDF](https://arxiv.org/pdf/2508.10432) |[Code](https://github.com/01upup10/CRISP)|
 | AUSM | Autoregressive Universal Video Segmentation Model | Arxiv | Online | [PDF](https://arxiv.org/pdf/2508.19242) ||
 | ELVIS | ELVIS: Enhance Low-light for Video Instance Segmentation in the Dark | Arxiv | Online | [PDF](https://arxiv.org/pdf/2512.01495) ||
+| S2D | S2D: Sparse-To-Dense Keymask Distillation for Unsupervised Video Instance Segmentation | Arxiv | Offline | [PDF](https://arxiv.org/pdf/2512.14440) |[Code](https://github.com/leonsick/s2d)|
 
 
 
