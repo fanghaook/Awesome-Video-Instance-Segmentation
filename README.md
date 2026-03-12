@@ -7,6 +7,7 @@ Other awesome projects: [Awesome-Referring-Video-Object-Segmentation](https://gi
 | Model      | Title                                                                             | Venue |    Type     |                                                                             Paper                                                                             |                     Code                     |
 |:-----------|:----------------------------------------------------------------------------------|:-----:|:-----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------:|
 | AutoQ-VIS | Boosting Unsupervised Video Instance Segmentation with Automatic Quality-Guided Self-Training | WACV | Online | [PDF](https://arxiv.org/pdf/2512.06864) | [Code](https://github.com/wcbup/AutoQ-VIS) |
+| CPOVIS | Causal Prompts for Open-vocabulary Video Instance Segmentation | TPAMI | Online | [PDF](https://ieeexplore.ieee.org/abstract/document/11419811) | |
 
 ## 2025
 
